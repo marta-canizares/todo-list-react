@@ -38,7 +38,7 @@ const TareaForm = (props) => {
 
                 {
                 !validacion &&
-                <div className="validacion">Añada una tarea, por favor</div>
+                <div className="validacion">Añada una tarea</div>
                 }
             </form>
         </div>
